@@ -31,7 +31,7 @@ Built using **Node.js**, **React**, **HTML**, and **CSS**, it delivers a fast, r
    git clone https://github.com/chanru-project/LAND-VEST.git
    cd LAND-VEST
 📷 Screenshots
-( https://chanru-project.github.io/LAND-VEST/)
+( http://localhost:5173/)
 
 📄 License
 This project is licensed under the MIT License.
